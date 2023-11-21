@@ -8,10 +8,10 @@ Get your telegram username from your account
 
 Open an .env file and set the corresponding variables:
 
-BASE_URL=https://generativelanguage.googleapis.com/v1beta2/models/chat-bison-001:generateMessage?key=
-PALM_KEY=your_palm_key
-ADMIN=your_account_username
-BOT_TOKEN=your_bot_token
+* BASE_URL=https://generativelanguage.googleapis.com/v1beta2/models/chat-bison-001:generateMessage?key=
+* PALM_KEY=your_palm_key
+* ADMIN=your_account_username
+* BOT_TOKEN=your_bot_token
 
 Now you have two options:
 
